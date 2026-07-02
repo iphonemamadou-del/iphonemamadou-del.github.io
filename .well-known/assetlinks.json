@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.iphonemamadou_del.twa",
+    "sha256_cert_fingerprints": ["A7:94:3F:7B:0F:71:1B:8F:42:9A:51:1A:EE:C3:17:2A:D9:8D:07:24:16:38:C6:11:76:8C:20:9F:AA:9B:87:44"]
+  }
+}]
